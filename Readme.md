@@ -89,3 +89,5 @@ public class MainActivity extends AppCompatActivity {
         android:text="@string/fa_up" />
 </RelativeLayout>
 ```
+
+[<h3>Use the cheatbook</h3>](http://fontawesome.io/cheatsheet/)
