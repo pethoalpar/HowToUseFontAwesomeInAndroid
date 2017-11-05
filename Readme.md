@@ -1,8 +1,6 @@
 <h1>How to use awesome fonts in android</h1>
 
-<h3>Download awesome fonts and unzip</h3>
-
-[fontawesome](http://fontawesome.io/)
+[<h3>Download awesome fonts and unzip</h3>](http://fontawesome.io/)
 
 <h3>Put in assests directory the fontawesome-webfont.ttf file</H3>
 
